@@ -1,0 +1,21 @@
+{
+    "name": "a-tour-of-go",
+    "dockerFile": "./Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "golang.Go",
+                "streetsidesoftware.code-spell-checker",
+                "oderwat.indent-rainbow",
+                "EditorConfig.EditorConfig"
+            ],
+            "settings": {
+                "go.formatTool": "gofmt",
+                "go.lintTool": "golangci-lint",
+                "go.lintFlags": [
+                    "--fast"
+                ]
+            }
+        }
+    }
+}
