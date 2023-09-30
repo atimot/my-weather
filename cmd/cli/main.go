@@ -42,7 +42,7 @@ func generateRequest() string {
 	params := map[string]string{
 		"lat":   "35.6983223",
 		"lon":   "139.7730186",
-		"appid": "0146307c9953096ab5b19594779feac0",
+		"appid": "",
 	}
 	queryParams := url.Values{}
 	for k, v := range params {
