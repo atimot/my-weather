@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"go-project/internal/weather"
+	"github.com/atimot/my-weather/internal/weather"
 )
 
 func main() {
