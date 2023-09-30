@@ -1,6 +1,6 @@
 # my-weather
-OpenWeatherのAPIを利用して現在の天気の状態を扱えるライブラリになる予定。
-(floy)dmayweatherではない。
+OpenWeatherのAPIを利用して現在の天気の状態を扱えるライブラリになる予定。<br>
+(floyd)mayweatherではない。
 
 # Goのバージョン
 1.21.1
